@@ -1,9 +1,9 @@
 // src/App.jsx
 import React, { useEffect, useState, useRef } from 'react';
 import { io } from 'socket.io-client';
-import AttackChart from './components/AttackChart.jsx';
-import AttackLog from './components/AttackLog.jsx';
-import Topology from './components/Topology.jsx';
+import AttackChart from './components/AttackChart';
+import AttackLog from './components/AttackLog';
+import Topology from './components/Topology';
 
 const SOCKET_URL = import.meta.env.VITE_SOCKET_URL || 'http://localhost:4000';
 
@@ -40,7 +40,7 @@ function App() {
     <div className="min-h-screen p-6">
       <header className="flex items-center justify-between mb-6">
         <h1 className="text-3xl font-semibold">Real Cloud Threat Visualizer</h1>
-        <div className="text-sm text-slate-300">Live simulated attacks • No credentials</div>
+        <div className="text-sm text-slate-300">Live simulated attacks • anyvc</div>
       </header>
 
       <main className="grid grid-cols-3 gap-6">
