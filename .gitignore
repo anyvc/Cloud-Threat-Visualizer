@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs
+*.log
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: skip coverage or test outputs
+coverage/
