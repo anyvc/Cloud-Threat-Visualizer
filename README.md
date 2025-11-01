@@ -1,4 +1,4 @@
-# Real Cloud Threat Visualizer
+# Cloud Threat Visualizer
 
 A **real-time cybersecurity monitoring dashboard** that visualizes simulated cloud attack events (brute force, phishing, port scans) across fake endpoints built using **Node.js, Socket.IO, React, Tailwind CSS, and Recharts**.
 
