@@ -49,7 +49,7 @@ npm run dev
 cd ../client
 npm install
 npm run dev
-open local:/
+open http://localhost:5173/
 ```
 
 ##  Project Concept
