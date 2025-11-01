@@ -60,5 +60,7 @@ It’s designed for beginner-to-intermediate cloud & security students to demons
 
 ## Author
 anyvc
+
 Cybersecurity & Cloud Enthusiast
+
 [Linkedin](<https://www.linkedin.com/in/hanashrayn/>) | [GitHub](<https://github.com/anyvc>)
