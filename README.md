@@ -50,8 +50,15 @@ cd ../client
 npm install
 npm run dev
 open local:/
+```
 
-## Project Concept
+##  Project Concept
 ```bash
 This project simulates cybersecurity telemetry and visualizes it like a real SIEM or cloud threat dashboard.
 It’s designed for beginner-to-intermediate cloud & security students to demonstrate understanding of cloud monitoring pipelines and visualization design.
+```
+
+## Author
+anyvc
+Cybersecurity & Cloud Enthusiast
+[Linkedin](<https://www.linkedin.com/in/hanashrayn/>) | [GitHub](<https://github.com/anyvc>)
