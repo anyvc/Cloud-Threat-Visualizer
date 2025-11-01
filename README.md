@@ -32,9 +32,9 @@ A **real-time cybersecurity monitoring dashboard** that visualizes simulated clo
 
 ---
 
-## 🖼️ Screenshot
-![Demo Screenshot](<img width="1916" height="667" alt="Scr1eenshot 2025-11-01 202801" src="https://github.com/user-attachments/assets/b7e83f51-2c5a-461b-bb14-30c5eec810ec" />
-)
+## Screenshot
+<img width="1916" height="667" alt="Scr1eenshot 2025-11-01 202801" src="https://github.com/user-attachments/assets/2a609549-2b60-4fc5-839f-6a5f5db5c7aa" />
+
 
 ---
 
